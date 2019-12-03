@@ -1,0 +1,874 @@
+Sr. No.	Sequence Name	Type of Pfam domain(s)	HMM Prediction	SVM Score	SVM prediction	Hybrid Prediction	Assignment
+
+1.	NODE_1_length_344672_cov_95.048695 	Uncalssified protein	----------	0.37596979	Pathogenic	Pathogenic	S
+
+2.	NODE_2_length_324691_cov_93.479916 	Uncalssified protein	----------	0.19974118	Pathogenic	Pathogenic	S
+
+3.	NODE_3_length_303255_cov_127.473097 	Uncalssified protein	----------	0.30033386	Pathogenic	Pathogenic	S
+
+4.	NODE_4_length_279133_cov_93.203491 	Uncalssified protein	----------	0.41837588	Pathogenic	Pathogenic	S
+
+5.	NODE_5_length_258753_cov_99.806527 	Uncalssified protein	----------	0.64481707	Pathogenic	Pathogenic	S
+
+6.	NODE_6_length_222992_cov_93.842776 	Uncalssified protein	----------	0.13900997	Pathogenic	Pathogenic	S
+
+7.	NODE_7_length_218300_cov_99.565026 	Uncalssified protein	----------	0.36865228	Pathogenic	Pathogenic	S
+
+8.	NODE_8_length_194436_cov_98.437178 	Uncalssified protein	----------	0.32181841	Pathogenic	Pathogenic	S
+
+9.	NODE_9_length_189483_cov_103.339406 	Uncalssified protein	----------	0.44904995	Pathogenic	Pathogenic	S
+
+10.	NODE_10_length_178051_cov_100.062142 	Uncalssified protein	----------	0.12072433	Pathogenic	Pathogenic	S
+
+11.	NODE_11_length_149831_cov_95.564997 	Uncalssified protein	----------	0.26507861	Pathogenic	Pathogenic	S
+
+12.	NODE_12_length_149228_cov_95.623484 	Uncalssified protein	----------	0.24955862	Pathogenic	Pathogenic	S
+
+13.	NODE_13_length_145947_cov_94.768171 	Uncalssified protein	----------	0.31057473	Pathogenic	Pathogenic	S
+
+14.	NODE_14_length_142813_cov_93.317054 	Uncalssified protein	----------	0.10362718	Pathogenic	Pathogenic	S
+
+15.	NODE_15_length_134818_cov_99.955492 	Uncalssified protein	----------	0.22355071	Pathogenic	Pathogenic	S
+
+16.	NODE_16_length_97286_cov_92.744382 	Uncalssified protein	----------	0.31302146	Pathogenic	Pathogenic	S
+
+17.	NODE_17_length_91965_cov_154.894027 	Uncalssified protein	----------	-0.064039223	Pathogenic	Pathogenic	S
+
+18.	NODE_18_length_90461_cov_93.769374 	Uncalssified protein	----------	0.36183393	Pathogenic	Pathogenic	S
+
+19.	NODE_19_length_90246_cov_103.787418 	Uncalssified protein	----------	0.30723669	Pathogenic	Pathogenic	S
+
+20.	NODE_20_length_84077_cov_103.636000 	Uncalssified protein	----------	0.42180344	Pathogenic	Pathogenic	S
+
+21.	NODE_21_length_82100_cov_106.014139 	Uncalssified protein	----------	0.40704723	Pathogenic	Pathogenic	S
+
+22.	NODE_22_length_81294_cov_92.975431 	Uncalssified protein	----------	0.30226572	Pathogenic	Pathogenic	S
+
+23.	NODE_23_length_75763_cov_98.682543 	Uncalssified protein	----------	0.40526156	Pathogenic	Pathogenic	S
+
+24.	NODE_24_length_61746_cov_188.129679 	Uncalssified protein	----------	0.22459938	Pathogenic	Pathogenic	S
+
+25.	NODE_25_length_61645_cov_91.068388 	Uncalssified protein	----------	0.13310446	Pathogenic	Pathogenic	S
+
+26.	NODE_26_length_58432_cov_98.804940 	Uncalssified protein	----------	0.46549667	Pathogenic	Pathogenic	S
+
+27.	NODE_27_length_54834_cov_97.293233 	Uncalssified protein	----------	0.050470686	Pathogenic	Pathogenic	S
+
+28.	NODE_28_length_54291_cov_92.174865 	Uncalssified protein	----------	0.134342	Pathogenic	Pathogenic	S
+
+29.	NODE_29_length_51790_cov_102.480390 	Uncalssified protein	----------	0.61254801	Pathogenic	Pathogenic	S
+
+30.	NODE_30_length_51672_cov_92.904954 	Uncalssified protein	----------	0.30917702	Pathogenic	Pathogenic	S
+
+31.	NODE_31_length_51460_cov_99.526622 	Uncalssified protein	----------	0.36025774	Pathogenic	Pathogenic	S
+
+32.	NODE_32_length_50054_cov_94.273825 	Uncalssified protein	----------	0.44498775	Pathogenic	Pathogenic	S
+
+33.	NODE_33_length_47039_cov_91.097076 	Uncalssified protein	----------	-0.040052473	Pathogenic	Pathogenic	S
+
+34.	NODE_34_length_44649_cov_93.325290 	Uncalssified protein	----------	0.42540487	Pathogenic	Pathogenic	S
+
+35.	NODE_35_length_35560_cov_93.613998 	Uncalssified protein	----------	-0.043765906	Pathogenic	Pathogenic	S
+
+36.	NODE_36_length_32701_cov_96.991668 	Uncalssified protein	----------	0.10564736	Pathogenic	Pathogenic	S
+
+37.	NODE_37_length_26108_cov_96.053775 	Uncalssified protein	----------	0.92362937	Pathogenic	Pathogenic	S
+
+38.	NODE_38_length_26026_cov_106.378653 	Uncalssified protein	----------	0.4513441	Pathogenic	Pathogenic	S
+
+39.	NODE_39_length_22110_cov_97.124008 	Uncalssified protein	----------	-0.10971045	Pathogenic	Pathogenic	S
+
+40.	NODE_40_length_22041_cov_109.863413 	Uncalssified protein	----------	0.60217411	Pathogenic	Pathogenic	S
+
+41.	NODE_41_length_21288_cov_103.119672 	Uncalssified protein	----------	-0.067551833	Pathogenic	Pathogenic	S
+
+42.	NODE_42_length_21174_cov_96.486529 	Uncalssified protein	----------	0.33153621	Pathogenic	Pathogenic	S
+
+43.	NODE_43_length_19754_cov_105.141885 	Uncalssified protein	----------	-0.19204535	Pathogenic	Pathogenic	S
+
+44.	NODE_44_length_17587_cov_93.726728 	Uncalssified protein	----------	0.35968218	Pathogenic	Pathogenic	S
+
+45.	NODE_45_length_11097_cov_100.165912 	Uncalssified protein	----------	0.87329584	Pathogenic	Pathogenic	S
+
+46.	NODE_46_length_9357_cov_91.650935 	Uncalssified protein	----------	0.40370891	Pathogenic	Pathogenic	S
+
+47.	NODE_47_length_6270_cov_186.741593 	Uncalssified protein	----------	-0.33198378	Non-Pathogenic	Non-Pathogenic	S
+
+48.	NODE_48_length_6185_cov_11440.032626 	Uncalssified protein	----------	1.8526424	Pathogenic	Pathogenic	S
+
+49.	NODE_49_length_5131_cov_10000.548660 	Uncalssified protein	----------	0.67921045	Pathogenic	Pathogenic	S
+
+50.	NODE_50_length_4596_cov_9888.556045 	Uncalssified protein	----------	0.8405677	Pathogenic	Pathogenic	S
+
+51.	NODE_51_length_4144_cov_94.381022 	Uncalssified protein	----------	0.83230595	Pathogenic	Pathogenic	S
+
+52.	NODE_52_length_4007_cov_111.080213 	Uncalssified protein	----------	0.56423632	Pathogenic	Pathogenic	S
+
+53.	NODE_53_length_3696_cov_10561.603955 	Uncalssified protein	----------	0.98126375	Pathogenic	Pathogenic	S
+
+54.	NODE_54_length_3294_cov_20261.789132 	Uncalssified protein	----------	1.0018974	Pathogenic	Pathogenic	S
+
+55.	NODE_55_length_3268_cov_1099.582011 	Uncalssified protein	----------	2.4309725	Pathogenic	Pathogenic	S
+
+56.	NODE_56_length_3228_cov_9621.480303 	Uncalssified protein	----------	0.34615114	Pathogenic	Pathogenic	S
+
+57.	NODE_57_length_2867_cov_9838.458748 	Uncalssified protein	----------	0.88665503	Pathogenic	Pathogenic	S
+
+58.	NODE_58_length_2796_cov_204.600511 	Uncalssified protein	----------	-0.2902356	Non-Pathogenic	Non-Pathogenic	S
+
+59.	NODE_59_length_2699_cov_210.987141 	Uncalssified protein	----------	0.32278363	Pathogenic	Pathogenic	S
+
+60.	NODE_60_length_2521_cov_98.626115 	Uncalssified protein	----------	0.97878277	Pathogenic	Pathogenic	S
+
+61.	NODE_61_length_2512_cov_108.668702 	Uncalssified protein	----------	-0.16133581	Pathogenic	Pathogenic	S
+
+62.	NODE_62_length_2507_cov_99.207993 	Uncalssified protein	----------	0.77689091	Pathogenic	Pathogenic	S
+
+63.	NODE_63_length_2357_cov_105.036056 	Uncalssified protein	----------	-0.43371337	Non-Pathogenic	Non-Pathogenic	S
+
+64.	NODE_64_length_2209_cov_10004.597029 	Uncalssified protein	----------	0.98241774	Pathogenic	Pathogenic	S
+
+65.	NODE_65_length_2161_cov_110.203704 	Uncalssified protein	----------	-0.21063306	Non-Pathogenic	Non-Pathogenic	S
+
+66.	NODE_66_length_2108_cov_277.067706 	Uncalssified protein	----------	-1.1319105	Non-Pathogenic	Non-Pathogenic	S
+
+67.	NODE_67_length_1917_cov_93.788400 	Uncalssified protein	----------	0.48976237	Pathogenic	Pathogenic	S
+
+68.	NODE_68_length_1875_cov_215.344505 	Uncalssified protein	----------	0.32472776	Pathogenic	Pathogenic	S
+
+69.	NODE_69_length_1802_cov_195.346308 	Uncalssified protein	----------	0.18760412	Pathogenic	Pathogenic	S
+
+70.	NODE_70_length_1740_cov_149.682451 	Uncalssified protein	----------	-0.1372329	Pathogenic	Pathogenic	S
+
+71.	NODE_71_length_1727_cov_689.992225 	Uncalssified protein	----------	1.1957935	Pathogenic	Pathogenic	S
+
+72.	NODE_72_length_1713_cov_18202.814837 	Uncalssified protein	----------	-0.19388725	Pathogenic	Pathogenic	S
+
+73.	NODE_73_length_1669_cov_690.808550 	Uncalssified protein	----------	-0.13765936	Pathogenic	Pathogenic	S
+
+74.	NODE_74_length_1650_cov_17914.153605 	Uncalssified protein	----------	0.02253903	Pathogenic	Pathogenic	S
+
+75.	NODE_75_length_1628_cov_114.665607 	Uncalssified protein	----------	1.3211451	Pathogenic	Pathogenic	S
+
+76.	NODE_76_length_1593_cov_112.114434 	Uncalssified protein	----------	2.2172369	Pathogenic	Pathogenic	S
+
+77.	NODE_77_length_1455_cov_10098.107857 	Uncalssified protein	----------	1.5141375	Pathogenic	Pathogenic	S
+
+78.	NODE_78_length_1400_cov_10172.486245 	Uncalssified protein	----------	2.0150024	Pathogenic	Pathogenic	S
+
+79.	NODE_79_length_1276_cov_13052.329238 	Uncalssified protein	----------	-0.053229622	Pathogenic	Pathogenic	S
+
+80.	NODE_80_length_1210_cov_200.270996 	Uncalssified protein	----------	-0.16060636	Pathogenic	Pathogenic	S
+
+81.	NODE_81_length_1163_cov_187.429603 	Uncalssified protein	----------	-0.87483643	Non-Pathogenic	Non-Pathogenic	S
+
+82.	NODE_82_length_1105_cov_19436.494286 	Uncalssified protein	----------	0.57894235	Pathogenic	Pathogenic	S
+
+83.	NODE_83_length_1102_cov_16768.324737 	Uncalssified protein	----------	0.36150945	Pathogenic	Pathogenic	S
+
+84.	NODE_84_length_1057_cov_20165.667665 	Uncalssified protein	----------	-0.29714719	Non-Pathogenic	Non-Pathogenic	S
+
+85.	NODE_85_length_1016_cov_19268.998959 	Uncalssified protein	----------	3.6024567	Pathogenic	Pathogenic	S
+
+86.	NODE_86_length_1010_cov_18855.743455 	Uncalssified protein	----------	1.0356933	Pathogenic	Pathogenic	S
+
+87.	NODE_87_length_990_cov_127.872727 	Uncalssified protein	----------	-0.24897688	Non-Pathogenic	Non-Pathogenic	S
+
+88.	NODE_88_length_981_cov_104.454644 	Uncalssified protein	----------	2.5707202	Pathogenic	Pathogenic	S
+
+89.	NODE_89_length_834_cov_11458.340180 	Uncalssified protein	----------	0.26727797	Pathogenic	Pathogenic	S
+
+90.	NODE_90_length_755_cov_11073.927143 	Uncalssified protein	----------	-0.54579365	Non-Pathogenic	Non-Pathogenic	S
+
+91.	NODE_91_length_746_cov_199.904486 	Uncalssified protein	----------	0.66426772	Pathogenic	Pathogenic	S
+
+92.	NODE_92_length_740_cov_202.036496 	Uncalssified protein	----------	-0.41375627	Non-Pathogenic	Non-Pathogenic	S
+
+93.	NODE_93_length_724_cov_19432.080717 	Uncalssified protein	----------	0.82762678	Pathogenic	Pathogenic	S
+
+94.	NODE_94_length_713_cov_1044.901216 	Uncalssified protein	----------	0.6476234	Pathogenic	Pathogenic	S
+
+95.	NODE_95_length_700_cov_14219.868217 	Uncalssified protein	----------	2.1413618	Pathogenic	Pathogenic	S
+
+96.	NODE_96_length_666_cov_19236.924714 	Uncalssified protein	----------	1.0922511	Pathogenic	Pathogenic	S
+
+97.	NODE_97_length_662_cov_670.332784 	Uncalssified protein	----------	-0.22360886	Non-Pathogenic	Non-Pathogenic	S
+
+98.	NODE_98_length_660_cov_205.692562 	Uncalssified protein	----------	-1.5250153	Non-Pathogenic	Non-Pathogenic	S
+
+99.	NODE_99_length_656_cov_9965.825291 	Uncalssified protein	----------	2.6317937	Pathogenic	Pathogenic	S
+
+100.	NODE_100_length_617_cov_711.055160 	Uncalssified protein	----------	-0.048852585	Pathogenic	Pathogenic	S
+
+101.	NODE_101_length_607_cov_12790.112319 	Uncalssified protein	----------	0.34717398	Pathogenic	Pathogenic	S
+
+102.	NODE_102_length_598_cov_232.615101 	Uncalssified protein	----------	1.8212518	Pathogenic	Pathogenic	S
+
+103.	NODE_103_length_547_cov_212.623984 	Uncalssified protein	----------	-0.20352089	Non-Pathogenic	Non-Pathogenic	S
+
+104.	NODE_104_length_546_cov_11244.403259 	Uncalssified protein	----------	-0.024148367	Pathogenic	Pathogenic	S
+
+105.	NODE_105_length_518_cov_186.395248 	Uncalssified protein	----------	0.65177091	Pathogenic	Pathogenic	S
+
+106.	NODE_106_length_515_cov_19515.256522 	Uncalssified protein	----------	1.7507432	Pathogenic	Pathogenic	S
+
+107.	NODE_107_length_508_cov_17047.962472 	Uncalssified protein	----------	5.3672088	Pathogenic	Pathogenic	S
+
+108.	NODE_108_length_475_cov_8726.588095 	Uncalssified protein	----------	1.0317474	Pathogenic	Pathogenic	S
+
+109.	NODE_109_length_470_cov_18578.033735 	Uncalssified protein	----------	2.6399027	Pathogenic	Pathogenic	S
+
+110.	NODE_110_length_455_cov_185.935000 	Uncalssified protein	----------	-0.95471204	Non-Pathogenic	Non-Pathogenic	S
+
+111.	NODE_111_length_454_cov_379.997494 	Uncalssified protein	----------	2.0294838	Pathogenic	Pathogenic	S
+
+112.	NODE_112_length_450_cov_106.794937 	Uncalssified protein	----------	-0.26362287	Non-Pathogenic	Non-Pathogenic	S
+
+113.	NODE_113_length_447_cov_210.201531 	Uncalssified protein	----------	0.71745513	Pathogenic	Pathogenic	S
+
+114.	NODE_114_length_436_cov_9697.062992 	Uncalssified protein	----------	-0.4752056	Non-Pathogenic	Non-Pathogenic	S
+
+115.	NODE_115_length_397_cov_108.830409 	Uncalssified protein	----------	4.7386006	Pathogenic	Pathogenic	S
+
+116.	NODE_116_length_396_cov_9592.187683 	Uncalssified protein	----------	0.21742517	Pathogenic	Pathogenic	S
+
+117.	NODE_117_length_387_cov_10115.195783 	Uncalssified protein	----------	-1.1868675	Non-Pathogenic	Non-Pathogenic	S
+
+118.	NODE_118_length_387_cov_8914.129518 	Uncalssified protein	----------	-1.5036262	Non-Pathogenic	Non-Pathogenic	S
+
+119.	NODE_119_length_381_cov_18408.021472 	Uncalssified protein	----------	2.1975995	Pathogenic	Pathogenic	S
+
+120.	NODE_120_length_369_cov_105.455414 	Uncalssified protein	----------	0.33637506	Pathogenic	Pathogenic	S
+
+121.	NODE_121_length_365_cov_16026.280645 	Uncalssified protein	----------	-1.7764796	Non-Pathogenic	Non-Pathogenic	S
+
+122.	NODE_122_length_333_cov_11002.233813 	Uncalssified protein	----------	0.25851123	Pathogenic	Pathogenic	S
+
+123.	NODE_123_length_333_cov_9757.356115 	Uncalssified protein	----------	0.40290824	Pathogenic	Pathogenic	S
+
+124.	NODE_124_length_313_cov_269.468992 	Uncalssified protein	----------	1.0543364	Pathogenic	Pathogenic	S
+
+125.	NODE_125_length_307_cov_96.916667 	Uncalssified protein	----------	0.22505007	Pathogenic	Pathogenic	S
+
+126.	NODE_126_length_307_cov_93.484127 	Uncalssified protein	----------	0.10558901	Pathogenic	Pathogenic	S
+
+127.	NODE_127_length_300_cov_99.795918 	Uncalssified protein	----------	-0.0073957587	Pathogenic	Pathogenic	S
+
+128.	NODE_128_length_293_cov_294.634454 	Uncalssified protein	----------	1.8113365	Pathogenic	Pathogenic	S
+
+129.	NODE_129_length_292_cov_180.675105 	Uncalssified protein	----------	0.061899623	Pathogenic	Pathogenic	S
+
+130.	NODE_130_length_282_cov_87.264317 	Uncalssified protein	----------	0.13400534	Pathogenic	Pathogenic	S
+
+131.	NODE_131_length_275_cov_10489.795455 	Uncalssified protein	----------	1.872355	Pathogenic	Pathogenic	S
+
+132.	NODE_132_length_270_cov_9903.925581 	Uncalssified protein	----------	-1.3370333	Non-Pathogenic	Non-Pathogenic	S
+
+133.	NODE_133_length_270_cov_8815.246512 	Uncalssified protein	----------	-1.3316699	Non-Pathogenic	Non-Pathogenic	S
+
+134.	NODE_134_length_269_cov_21551.074766 	Uncalssified protein	----------	3.3208291	Pathogenic	Pathogenic	S
+
+135.	NODE_135_length_266_cov_97.289100 	Uncalssified protein	----------	-1.0317842	Non-Pathogenic	Non-Pathogenic	S
+
+136.	NODE_136_length_264_cov_174.311005 	Uncalssified protein	----------	3.1012474	Pathogenic	Pathogenic	S
+
+137.	NODE_137_length_259_cov_94.941176 	Uncalssified protein	----------	0.073778672	Pathogenic	Pathogenic	S
+
+138.	NODE_138_length_255_cov_572.555000 	Uncalssified protein	----------	-0.16549534	Pathogenic	Pathogenic	S
+
+139.	NODE_139_length_249_cov_11003.097938 	Uncalssified protein	----------	-0.98328926	Non-Pathogenic	Non-Pathogenic	S
+
+140.	NODE_140_length_249_cov_9672.170103 	Uncalssified protein	----------	-1.0674718	Non-Pathogenic	Non-Pathogenic	S
+
+141.	NODE_141_length_247_cov_22192.703125 	Uncalssified protein	----------	0.67454325	Pathogenic	Pathogenic	S
+
+142.	NODE_142_length_246_cov_107.162304 	Uncalssified protein	----------	-1.1431717	Non-Pathogenic	Non-Pathogenic	S
+
+143.	NODE_143_length_245_cov_73.331579 	Uncalssified protein	----------	1.1533036	Pathogenic	Pathogenic	S
+
+144.	NODE_144_length_244_cov_299.613757 	Uncalssified protein	----------	0.54721856	Pathogenic	Pathogenic	S
+
+145.	NODE_145_length_243_cov_9194.952128 	Uncalssified protein	----------	-0.47919539	Non-Pathogenic	Non-Pathogenic	S
+
+146.	NODE_146_length_242_cov_0.737968 	Uncalssified protein	----------	-1.1862114	Non-Pathogenic	Non-Pathogenic	S
+
+147.	NODE_147_length_241_cov_74.537634 	Uncalssified protein	----------	-1.1813713	Non-Pathogenic	Non-Pathogenic	S
+
+148.	NODE_148_length_238_cov_21704.393443 	Uncalssified protein	----------	0.87666001	Pathogenic	Pathogenic	S
+
+149.	NODE_149_length_236_cov_9204.077348 	Uncalssified protein	----------	-0.92314732	Non-Pathogenic	Non-Pathogenic	S
+
+150.	NODE_150_length_235_cov_9806.950000 	Uncalssified protein	----------	0.79070768	Pathogenic	Pathogenic	S
+
+151.	NODE_151_length_232_cov_211.813559 	Uncalssified protein	----------	-1.0498994	Non-Pathogenic	Non-Pathogenic	S
+
+152.	NODE_152_length_231_cov_177.642045 	Uncalssified protein	----------	-1.5108098	Non-Pathogenic	Non-Pathogenic	S
+
+153.	NODE_153_length_228_cov_11347.988439 	Uncalssified protein	----------	-0.092829934	Pathogenic	Pathogenic	S
+
+154.	NODE_154_length_228_cov_10129.982659 	Uncalssified protein	----------	-0.071434576	Pathogenic	Pathogenic	S
+
+155.	NODE_155_length_223_cov_95.434524 	Uncalssified protein	----------	-0.36869595	Non-Pathogenic	Non-Pathogenic	S
+
+156.	NODE_156_length_222_cov_11138.419162 	Uncalssified protein	----------	0.042128576	Pathogenic	Pathogenic	S
+
+157.	NODE_157_length_222_cov_11102.215569 	Uncalssified protein	----------	0.13862351	Pathogenic	Pathogenic	S
+
+158.	NODE_158_length_219_cov_10499.182927 	Uncalssified protein	----------	0.68989076	Pathogenic	Pathogenic	S
+
+159.	NODE_159_length_213_cov_1.303797 	Uncalssified protein	----------	4.3247907	Pathogenic	Pathogenic	S
+
+160.	NODE_160_length_213_cov_1.037975 	Uncalssified protein	----------	0.88246793	Pathogenic	Pathogenic	S
+
+161.	NODE_161_length_210_cov_77.670968 	Uncalssified protein	----------	1.5546903	Pathogenic	Pathogenic	S
+
+162.	NODE_162_length_209_cov_190.500000 	Uncalssified protein	----------	2.0338148	Pathogenic	Pathogenic	S
+
+163.	NODE_163_length_198_cov_20291.566434 	Uncalssified protein	----------	1.8972441	Pathogenic	Pathogenic	S
+
+164.	NODE_164_length_198_cov_10923.384615 	Uncalssified protein	----------	-0.91715923	Non-Pathogenic	Non-Pathogenic	S
+
+165.	NODE_165_length_198_cov_10020.734266 	Uncalssified protein	----------	-0.90317857	Non-Pathogenic	Non-Pathogenic	S
+
+166.	NODE_166_length_195_cov_11501.485714 	Uncalssified protein	----------	-0.40991926	Non-Pathogenic	Non-Pathogenic	S
+
+167.	NODE_167_length_195_cov_10203.092857 	Uncalssified protein	----------	-0.56201651	Non-Pathogenic	Non-Pathogenic	S
+
+168.	NODE_168_length_192_cov_10869.124088 	Uncalssified protein	----------	1.2406057	Pathogenic	Pathogenic	S
+
+169.	NODE_169_length_192_cov_9379.423358 	Uncalssified protein	----------	1.1275162	Pathogenic	Pathogenic	S
+
+170.	NODE_170_length_190_cov_10084.059259 	Uncalssified protein	----------	1.1882177	Pathogenic	Pathogenic	S
+
+171.	NODE_171_length_189_cov_11691.388060 	Uncalssified protein	----------	-0.23978063	Non-Pathogenic	Non-Pathogenic	S
+
+172.	NODE_172_length_189_cov_10783.365672 	Uncalssified protein	----------	-0.39438301	Non-Pathogenic	Non-Pathogenic	S
+
+173.	NODE_173_length_189_cov_10220.500000 	Uncalssified protein	----------	-0.29239943	Non-Pathogenic	Non-Pathogenic	S
+
+174.	NODE_174_length_187_cov_9904.742424 	Uncalssified protein	----------	0.74391589	Pathogenic	Pathogenic	S
+
+175.	NODE_175_length_185_cov_11036.253846 	Uncalssified protein	----------	0.91943318	Pathogenic	Pathogenic	S
+
+176.	NODE_176_length_174_cov_11251.193277 	Uncalssified protein	----------	1.0897981	Pathogenic	Pathogenic	S
+
+177.	NODE_177_length_173_cov_9481.838983 	Uncalssified protein	----------	0.44247443	Pathogenic	Pathogenic	S
+
+178.	NODE_178_length_172_cov_14654.760684 	Uncalssified protein	----------	0.19092775	Pathogenic	Pathogenic	S
+
+179.	NODE_179_length_171_cov_9599.310345 	Uncalssified protein	----------	0.073185742	Pathogenic	Pathogenic	S
+
+180.	NODE_180_length_171_cov_99.672414 	Uncalssified protein	----------	-0.22478099	Non-Pathogenic	Non-Pathogenic	S
+
+181.	NODE_181_length_169_cov_177.263158 	Uncalssified protein	----------	0.4204628	Pathogenic	Pathogenic	S
+
+182.	NODE_182_length_167_cov_10442.428571 	Uncalssified protein	----------	0.12634759	Pathogenic	Pathogenic	S
+
+183.	NODE_183_length_167_cov_9219.339286 	Uncalssified protein	----------	0.08390814	Pathogenic	Pathogenic	S
+
+184.	NODE_184_length_166_cov_9344.288288 	Uncalssified protein	----------	0.81155264	Pathogenic	Pathogenic	S
+
+185.	NODE_185_length_157_cov_15034.000000 	Uncalssified protein	----------	-1.312895	Non-Pathogenic	Non-Pathogenic	S
+
+186.	NODE_186_length_156_cov_74.000000 	Uncalssified protein	----------	0.27595612	Pathogenic	Pathogenic	S
+
+187.	NODE_187_length_151_cov_11460.885417 	Uncalssified protein	----------	-0.17236992	Pathogenic	Pathogenic	S
+
+188.	NODE_188_length_151_cov_9957.260417 	Uncalssified protein	----------	-0.15143596	Pathogenic	Pathogenic	S
+
+189.	NODE_189_length_150_cov_11083.957895 	Uncalssified protein	----------	-1.5481829	Non-Pathogenic	Non-Pathogenic	S
+
+190.	NODE_190_length_150_cov_10365.273684 	Uncalssified protein	----------	1.9284741	Pathogenic	Pathogenic	S
+
+191.	NODE_191_length_150_cov_9911.621053 	Uncalssified protein	----------	1.7273441	Pathogenic	Pathogenic	S
+
+192.	NODE_192_length_148_cov_10963.741935 	Uncalssified protein	----------	2.3958548	Pathogenic	Pathogenic	S
+
+193.	NODE_193_length_147_cov_100.315217 	Uncalssified protein	----------	4.8660133	Pathogenic	Pathogenic	S
+
+194.	NODE_194_length_144_cov_9366.719101 	Uncalssified protein	----------	1.1531919	Pathogenic	Pathogenic	S
+
+195.	NODE_195_length_144_cov_8969.089888 	Uncalssified protein	----------	1.3991298	Pathogenic	Pathogenic	S
+
+196.	NODE_196_length_143_cov_9884.272727 	Uncalssified protein	----------	1.3516114	Pathogenic	Pathogenic	S
+
+197.	NODE_197_length_140_cov_273.400000 	Uncalssified protein	----------	-1.3254087	Non-Pathogenic	Non-Pathogenic	S
+
+198.	NODE_198_length_139_cov_9513.392857 	Uncalssified protein	----------	-0.27604264	Non-Pathogenic	Non-Pathogenic	S
+
+199.	NODE_199_length_138_cov_9209.409639 	Uncalssified protein	----------	-1.0384153	Non-Pathogenic	Non-Pathogenic	S
+
+200.	NODE_200_length_137_cov_11214.890244 	Uncalssified protein	----------	-0.24396115	Non-Pathogenic	Non-Pathogenic	S
+
+201.	NODE_201_length_137_cov_9744.121951 	Uncalssified protein	----------	1.9476908	Pathogenic	Pathogenic	S
+
+202.	NODE_202_length_137_cov_9716.390244 	Uncalssified protein	----------	-0.15215044	Pathogenic	Pathogenic	S
+
+203.	NODE_203_length_135_cov_10297.625000 	Uncalssified protein	----------	1.0316156	Pathogenic	Pathogenic	S
+
+204.	NODE_204_length_134_cov_9268.392405 	Uncalssified protein	----------	1.0360457	Pathogenic	Pathogenic	S
+
+205.	NODE_205_length_133_cov_9712.858974 	Uncalssified protein	----------	-0.54516556	Non-Pathogenic	Non-Pathogenic	S
+
+206.	NODE_206_length_126_cov_18356.859155 	Uncalssified protein	----------	1.8120555	Pathogenic	Pathogenic	S
+
+207.	NODE_207_length_126_cov_10557.408451 	Uncalssified protein	----------	-0.27971132	Non-Pathogenic	Non-Pathogenic	S
+
+208.	NODE_208_length_122_cov_591.552239 	Uncalssified protein	----------	-0.61850585	Non-Pathogenic	Non-Pathogenic	S
+
+209.	NODE_209_length_121_cov_10679.454545 	Uncalssified protein	----------	-0.0066444707	Pathogenic	Pathogenic	S
+
+210.	NODE_210_length_120_cov_10465.153846 	Uncalssified protein	----------	4.1305523	Pathogenic	Pathogenic	S
+
+211.	NODE_211_length_120_cov_10219.353846 	Uncalssified protein	----------	0.36026062	Pathogenic	Pathogenic	S
+
+212.	NODE_212_length_120_cov_9176.184615 	Uncalssified protein	----------	1.5762114	Pathogenic	Pathogenic	S
+
+213.	NODE_213_length_119_cov_20371.828125 	Uncalssified protein	----------	-1.5745134	Non-Pathogenic	Non-Pathogenic	S
+
+214.	NODE_214_length_118_cov_39.825397 	Uncalssified protein	----------	12.9491	Pathogenic	Pathogenic	S
+
+215.	NODE_215_length_116_cov_204.721311 	Uncalssified protein	----------	11.519522	Pathogenic	Pathogenic	S
+
+216.	NODE_216_length_115_cov_9393.916667 	Uncalssified protein	----------	0.69811729	Pathogenic	Pathogenic	S
+
+217.	NODE_217_length_114_cov_306.322034 	Uncalssified protein	----------	1.3169413	Pathogenic	Pathogenic	S
+
+218.	NODE_218_length_114_cov_198.372881 	Uncalssified protein	----------	2.7796883	Pathogenic	Pathogenic	S
+
+219.	NODE_219_length_113_cov_21200.655172 	Uncalssified protein	----------	1.076615	Pathogenic	Pathogenic	S
+
+220.	NODE_220_length_112_cov_14807.666667 	Uncalssified protein	----------	6.3944784	Pathogenic	Pathogenic	S
+
+221.	NODE_221_length_111_cov_11625.500000 	Uncalssified protein	----------	2.7564673	Pathogenic	Pathogenic	S
+
+222.	NODE_222_length_111_cov_11285.410714 	Uncalssified protein	----------	-1.8489538	Non-Pathogenic	Non-Pathogenic	S
+
+223.	NODE_223_length_111_cov_11230.125000 	Uncalssified protein	----------	-2.2237456	Non-Pathogenic	Non-Pathogenic	S
+
+224.	NODE_224_length_111_cov_11221.232143 	Uncalssified protein	----------	0.7842186	Pathogenic	Pathogenic	S
+
+225.	NODE_225_length_111_cov_10899.517857 	Uncalssified protein	----------	0.33566163	Pathogenic	Pathogenic	S
+
+226.	NODE_226_length_111_cov_10884.071429 	Uncalssified protein	----------	2.2572449	Pathogenic	Pathogenic	S
+
+227.	NODE_227_length_111_cov_10862.928571 	Uncalssified protein	----------	1.0493935	Pathogenic	Pathogenic	S
+
+228.	NODE_228_length_111_cov_10768.142857 	Uncalssified protein	----------	-0.26991822	Non-Pathogenic	Non-Pathogenic	S
+
+229.	NODE_229_length_111_cov_10705.660714 	Uncalssified protein	----------	-0.022594467	Pathogenic	Pathogenic	S
+
+230.	NODE_230_length_111_cov_10618.196429 	Uncalssified protein	----------	-0.0022351376	Pathogenic	Pathogenic	S
+
+231.	NODE_231_length_111_cov_10609.696429 	Uncalssified protein	----------	-0.63745253	Non-Pathogenic	Non-Pathogenic	S
+
+232.	NODE_232_length_111_cov_10521.500000 	Uncalssified protein	----------	-0.37098103	Non-Pathogenic	Non-Pathogenic	S
+
+233.	NODE_233_length_111_cov_10350.892857 	Uncalssified protein	----------	-1.6102898	Non-Pathogenic	Non-Pathogenic	S
+
+234.	NODE_234_length_111_cov_10342.267857 	Uncalssified protein	----------	3.1661189	Pathogenic	Pathogenic	S
+
+235.	NODE_235_length_111_cov_10321.875000 	Uncalssified protein	----------	-0.81500018	Non-Pathogenic	Non-Pathogenic	S
+
+236.	NODE_236_length_111_cov_10156.714286 	Uncalssified protein	----------	-1.0604609	Non-Pathogenic	Non-Pathogenic	S
+
+237.	NODE_237_length_111_cov_10086.964286 	Uncalssified protein	----------	0.12261882	Pathogenic	Pathogenic	S
+
+238.	NODE_238_length_111_cov_10072.535714 	Uncalssified protein	----------	0.64479173	Pathogenic	Pathogenic	S
+
+239.	NODE_239_length_111_cov_9953.982143 	Uncalssified protein	----------	0.20215842	Pathogenic	Pathogenic	S
+
+240.	NODE_240_length_111_cov_9921.214286 	Uncalssified protein	----------	-0.009772044	Pathogenic	Pathogenic	S
+
+241.	NODE_241_length_111_cov_9789.678571 	Uncalssified protein	----------	0.82689638	Pathogenic	Pathogenic	S
+
+242.	NODE_242_length_111_cov_9561.339286 	Uncalssified protein	----------	0.059106486	Pathogenic	Pathogenic	S
+
+243.	NODE_243_length_111_cov_9548.142857 	Uncalssified protein	----------	1.0904794	Pathogenic	Pathogenic	S
+
+244.	NODE_244_length_111_cov_9469.660714 	Uncalssified protein	----------	0.74401562	Pathogenic	Pathogenic	S
+
+245.	NODE_245_length_111_cov_9382.482143 	Uncalssified protein	----------	-2.0495974	Non-Pathogenic	Non-Pathogenic	S
+
+246.	NODE_246_length_111_cov_9230.982143 	Uncalssified protein	----------	1.436488	Pathogenic	Pathogenic	S
+
+247.	NODE_247_length_111_cov_9174.339286 	Uncalssified protein	----------	0.23620715	Pathogenic	Pathogenic	S
+
+248.	NODE_248_length_111_cov_9174.267857 	Uncalssified protein	----------	-1.1074623	Non-Pathogenic	Non-Pathogenic	S
+
+249.	NODE_249_length_111_cov_9160.303571 	Uncalssified protein	----------	0.71826476	Pathogenic	Pathogenic	S
+
+250.	NODE_250_length_111_cov_9100.285714 	Uncalssified protein	----------	-0.62694315	Non-Pathogenic	Non-Pathogenic	S
+
+251.	NODE_251_length_111_cov_9025.875000 	Uncalssified protein	----------	2.5753765	Pathogenic	Pathogenic	S
+
+252.	NODE_252_length_111_cov_8964.928571 	Uncalssified protein	----------	5.91181	Pathogenic	Pathogenic	S
+
+253.	NODE_253_length_111_cov_8806.214286 	Uncalssified protein	----------	-0.16080201	Pathogenic	Pathogenic	S
+
+254.	NODE_254_length_111_cov_8401.428571 	Uncalssified protein	----------	4.8634627	Pathogenic	Pathogenic	S
+
+255.	NODE_255_length_111_cov_546.750000 	Uncalssified protein	----------	6.9018679	Pathogenic	Pathogenic	S
+
+256.	NODE_256_length_111_cov_399.339286 	Uncalssified protein	----------	8.3426959	Pathogenic	Pathogenic	S
+
+257.	NODE_257_length_111_cov_187.250000 	Uncalssified protein	----------	0.6600636	Pathogenic	Pathogenic	S
+
+258.	NODE_258_length_111_cov_93.214286 	Uncalssified protein	----------	-1.3337676	Non-Pathogenic	Non-Pathogenic	S
+
+259.	NODE_259_length_110_cov_102.836364 	Uncalssified protein	----------	-0.31485766	Non-Pathogenic	Non-Pathogenic	S
+
+260.	NODE_260_length_110_cov_98.581818 	Uncalssified protein	----------	2.4587528	Pathogenic	Pathogenic	S
+
+261.	NODE_261_length_110_cov_84.381818 	Uncalssified protein	----------	1.5779074	Pathogenic	Pathogenic	S
+
+262.	NODE_262_length_110_cov_78.636364 	Uncalssified protein	----------	5.4516869	Pathogenic	Pathogenic	S
+
+263.	NODE_263_length_109_cov_72.685185 	Uncalssified protein	----------	6.3335099	Pathogenic	Pathogenic	S
+
+264.	NODE_264_length_107_cov_17210.615385 	Uncalssified protein	----------	-1.1780299	Non-Pathogenic	Non-Pathogenic	S
+
+265.	NODE_265_length_107_cov_125.923077 	Uncalssified protein	----------	5.6503684	Pathogenic	Pathogenic	S
+
+266.	NODE_266_length_107_cov_105.769231 	Uncalssified protein	----------	-3.8315492	Non-Pathogenic	Non-Pathogenic	S
+
+267.	NODE_267_length_107_cov_73.673077 	Uncalssified protein	----------	-3.8069757	Non-Pathogenic	Non-Pathogenic	S
+
+268.	NODE_268_length_106_cov_9199.588235 	Uncalssified protein	----------	1.5509997	Pathogenic	Pathogenic	S
+
+269.	NODE_269_length_106_cov_182.294118 	Uncalssified protein	----------	5.6049981	Pathogenic	Pathogenic	S
+
+270.	NODE_270_length_106_cov_83.058824 	Uncalssified protein	----------	5.8572678	Pathogenic	Pathogenic	S
+
+271.	NODE_271_length_105_cov_101.660000 	Uncalssified protein	----------	7.7465451	Pathogenic	Pathogenic	S
+
+272.	NODE_272_length_105_cov_93.060000 	Uncalssified protein	----------	1.4770081	Pathogenic	Pathogenic	S
+
+273.	NODE_273_length_105_cov_84.120000 	Uncalssified protein	----------	0.60283751	Pathogenic	Pathogenic	S
+
+274.	NODE_274_length_104_cov_104.612245 	Uncalssified protein	----------	-1.801479	Non-Pathogenic	Non-Pathogenic	S
+
+275.	NODE_275_length_103_cov_9815.562500 	Uncalssified protein	----------	5.146924	Pathogenic	Pathogenic	S
+
+276.	NODE_276_length_103_cov_8769.250000 	Uncalssified protein	----------	0.5286188	Pathogenic	Pathogenic	S
+
+277.	NODE_277_length_103_cov_7656.208333 	Uncalssified protein	----------	0.30496925	Pathogenic	Pathogenic	S
+
+278.	NODE_278_length_103_cov_235.062500 	Uncalssified protein	----------	7.1951838	Pathogenic	Pathogenic	S
+
+279.	NODE_279_length_103_cov_188.083333 	Uncalssified protein	----------	3.9690879	Pathogenic	Pathogenic	S
+
+280.	NODE_280_length_103_cov_126.041667 	Uncalssified protein	----------	4.5591705	Pathogenic	Pathogenic	S
+
+281.	NODE_281_length_103_cov_105.000000 	Uncalssified protein	----------	6.8808043	Pathogenic	Pathogenic	S
+
+282.	NODE_282_length_103_cov_103.354167 	Uncalssified protein	----------	1.1314264	Pathogenic	Pathogenic	S
+
+283.	NODE_283_length_103_cov_98.645833 	Uncalssified protein	----------	3.9690879	Pathogenic	Pathogenic	S
+
+284.	NODE_284_length_102_cov_150.829787 	Uncalssified protein	----------	4.804874	Pathogenic	Pathogenic	S
+
+285.	NODE_285_length_102_cov_81.191489 	Uncalssified protein	----------	-2.9235218	Non-Pathogenic	Non-Pathogenic	S
+
+286.	NODE_286_length_101_cov_22513.782609 	Uncalssified protein	----------	2.69986	Pathogenic	Pathogenic	S
+
+287.	NODE_287_length_101_cov_123.608696 	Uncalssified protein	----------	-0.22672005	Non-Pathogenic	Non-Pathogenic	S
+
+288.	NODE_288_length_101_cov_82.978261 	Uncalssified protein	----------	-0.95418864	Non-Pathogenic	Non-Pathogenic	S
+
+289.	NODE_289_length_100_cov_280.844444 	Uncalssified protein	----------	3.1915747	Pathogenic	Pathogenic	S
+
+290.	NODE_290_length_99_cov_96.000000 	Uncalssified protein	----------	-1.2551351	Non-Pathogenic	Non-Pathogenic	S
+
+291.	NODE_291_length_97_cov_182.952381 	Uncalssified protein	----------	-0.23313149	Non-Pathogenic	Non-Pathogenic	S
+
+292.	NODE_292_length_96_cov_112.926829 	Uncalssified protein	----------	-2.8653576	Non-Pathogenic	Non-Pathogenic	S
+
+293.	NODE_293_length_94_cov_1.205128 	Uncalssified protein	----------	-3.8343142	Non-Pathogenic	Non-Pathogenic	S
+
+294.	NODE_294_length_92_cov_10012.513514 	Uncalssified protein	----------	1.9058117	Pathogenic	Pathogenic	S
+
+295.	NODE_295_length_92_cov_9401.594595 	Uncalssified protein	----------	5.6044214	Pathogenic	Pathogenic	S
+
+296.	NODE_296_length_92_cov_8842.270270 	Uncalssified protein	----------	1.6384616	Pathogenic	Pathogenic	S
+
+297.	NODE_297_length_92_cov_148.918919 	Uncalssified protein	----------	2.2776118	Pathogenic	Pathogenic	S
+
+298.	NODE_298_length_92_cov_110.432432 	Uncalssified protein	----------	-3.0834006	Non-Pathogenic	Non-Pathogenic	S
+
+299.	NODE_299_length_92_cov_93.108108 	Uncalssified protein	----------	2.578101	Pathogenic	Pathogenic	S
+
+300.	NODE_300_length_91_cov_9183.972222 	Uncalssified protein	----------	4.2914141	Pathogenic	Pathogenic	S
+
+301.	NODE_301_length_91_cov_184.333333 	Uncalssified protein	----------	4.6458628	Pathogenic	Pathogenic	S
+
+302.	NODE_302_length_90_cov_92.142857 	Uncalssified protein	----------	-0.9580431	Non-Pathogenic	Non-Pathogenic	S
+
+303.	NODE_303_length_88_cov_1.454545 	Uncalssified protein	----------	-1.9962312	Non-Pathogenic	Non-Pathogenic	S
+
+304.	NODE_304_length_87_cov_94.718750 	Uncalssified protein	----------	-2.8393613	Non-Pathogenic	Non-Pathogenic	S
+
+305.	NODE_305_length_85_cov_90.666667 	Uncalssified protein	----------	-4.4021642	Non-Pathogenic	Non-Pathogenic	S
+
+306.	NODE_306_length_85_cov_85.900000 	Uncalssified protein	----------	-2.5523119	Non-Pathogenic	Non-Pathogenic	S
+
+307.	NODE_307_length_84_cov_399.931034 	Uncalssified protein	----------	7.9207939	Pathogenic	Pathogenic	S
+
+308.	NODE_308_length_84_cov_210.379310 	Uncalssified protein	----------	-3.0310886	Non-Pathogenic	Non-Pathogenic	S
+
+309.	NODE_309_length_84_cov_201.965517 	Uncalssified protein	----------	5.920199	Pathogenic	Pathogenic	S
+
+310.	NODE_310_length_83_cov_89.464286 	Uncalssified protein	----------	3.4285096	Pathogenic	Pathogenic	S
+
+311.	NODE_311_length_82_cov_18855.814815 	Uncalssified protein	----------	0.53978783	Pathogenic	Pathogenic	S
+
+312.	NODE_312_length_82_cov_226.407407 	Uncalssified protein	----------	5.6184167	Pathogenic	Pathogenic	S
+
+313.	NODE_313_length_82_cov_189.777778 	Uncalssified protein	----------	-2.6994456	Non-Pathogenic	Non-Pathogenic	S
+
+314.	NODE_314_length_81_cov_11429.615385 	Uncalssified protein	----------	1.9458634	Pathogenic	Pathogenic	S
+
+315.	NODE_315_length_81_cov_9942.730769 	Uncalssified protein	----------	2.0809936	Pathogenic	Pathogenic	S
+
+316.	NODE_316_length_81_cov_438.153846 	Uncalssified protein	----------	-2.6117148	Non-Pathogenic	Non-Pathogenic	S
+
+317.	NODE_317_length_81_cov_333.384615 	Uncalssified protein	----------	-4.1214622	Non-Pathogenic	Non-Pathogenic	S
+
+318.	NODE_318_length_81_cov_158.807692 	Uncalssified protein	----------	-4.0085602	Non-Pathogenic	Non-Pathogenic	S
+
+319.	NODE_319_length_81_cov_96.769231 	Uncalssified protein	----------	-3.5774568	Non-Pathogenic	Non-Pathogenic	S
+
+320.	NODE_320_length_81_cov_83.115385 	Uncalssified protein	----------	-2.6168023	Non-Pathogenic	Non-Pathogenic	S
+
+321.	NODE_321_length_79_cov_5319.791667 	Uncalssified protein	----------	-4.0994507	Non-Pathogenic	Non-Pathogenic	S
+
+322.	NODE_322_length_79_cov_93.083333 	Uncalssified protein	----------	0.073843872	Pathogenic	Pathogenic	S
+
+323.	NODE_323_length_76_cov_9932.047619 	Uncalssified protein	----------	-2.6713452	Non-Pathogenic	Non-Pathogenic	S
+
+324.	NODE_324_length_76_cov_6129.857143 	Uncalssified protein	----------	-5.1909962	Non-Pathogenic	Non-Pathogenic	S
+
+325.	NODE_325_length_76_cov_6055.380952 	Uncalssified protein	----------	-4.879493	Non-Pathogenic	Non-Pathogenic	S
+
+326.	NODE_326_length_75_cov_89.100000 	Uncalssified protein	----------	-2.2557251	Non-Pathogenic	Non-Pathogenic	S
+
+327.	NODE_327_length_75_cov_86.700000 	Uncalssified protein	----------	4.2249634	Pathogenic	Pathogenic	S
+
+328.	NODE_328_length_74_cov_8833.315789 	Uncalssified protein	----------	6.9221796	Pathogenic	Pathogenic	S
+
+329.	NODE_329_length_74_cov_160.210526 	Uncalssified protein	----------	-1.4568966	Non-Pathogenic	Non-Pathogenic	S
+
+330.	NODE_330_length_74_cov_124.578947 	Uncalssified protein	----------	7.2538046	Pathogenic	Pathogenic	S
+
+331.	NODE_331_length_74_cov_117.263158 	Uncalssified protein	----------	7.7601683	Pathogenic	Pathogenic	S
+
+332.	NODE_332_length_73_cov_221.111111 	Uncalssified protein	----------	6.5507985	Pathogenic	Pathogenic	S
+
+333.	NODE_333_length_73_cov_122.833333 	Uncalssified protein	----------	5.8738142	Pathogenic	Pathogenic	S
+
+334.	NODE_334_length_73_cov_111.333333 	Uncalssified protein	----------	11.342219	Pathogenic	Pathogenic	S
+
+335.	NODE_335_length_73_cov_105.444444 	Uncalssified protein	----------	11.339305	Pathogenic	Pathogenic	S
+
+336.	NODE_336_length_73_cov_86.888889 	Uncalssified protein	----------	-3.3075905	Non-Pathogenic	Non-Pathogenic	S
+
+337.	NODE_337_length_72_cov_245.235294 	Uncalssified protein	----------	-4.8800534	Non-Pathogenic	Non-Pathogenic	S
+
+338.	NODE_338_length_71_cov_21302.500000 	Uncalssified protein	----------	-0.29370198	Non-Pathogenic	Non-Pathogenic	S
+
+339.	NODE_339_length_70_cov_18632.000000 	Uncalssified protein	----------	-0.023904874	Pathogenic	Pathogenic	S
+
+340.	NODE_340_length_70_cov_8161.800000 	Uncalssified protein	----------	-2.9770447	Non-Pathogenic	Non-Pathogenic	S
+
+341.	NODE_341_length_70_cov_7122.333333 	Uncalssified protein	----------	-2.8293306	Non-Pathogenic	Non-Pathogenic	S
+
+342.	NODE_342_length_70_cov_6593.800000 	Uncalssified protein	----------	-2.8293306	Non-Pathogenic	Non-Pathogenic	S
+
+343.	NODE_343_length_69_cov_389.714286 	Uncalssified protein	----------	10.955424	Pathogenic	Pathogenic	S
+
+344.	NODE_344_length_69_cov_2.785714 	Uncalssified protein	----------	4.0961358	Pathogenic	Pathogenic	S
+
+345.	NODE_345_length_66_cov_19912.909091 	Uncalssified protein	----------	1.7709997	Pathogenic	Pathogenic	S
+
+346.	NODE_346_length_66_cov_7823.909091 	Uncalssified protein	----------	-3.6584496	Non-Pathogenic	Non-Pathogenic	S
+
+347.	NODE_347_length_66_cov_222.181818 	Uncalssified protein	----------	-2.3207276	Non-Pathogenic	Non-Pathogenic	S
+
+348.	NODE_348_length_65_cov_19588.000000 	Uncalssified protein	----------	-1.5287072	Non-Pathogenic	Non-Pathogenic	S
+
+349.	NODE_349_length_65_cov_17782.700000 	Uncalssified protein	----------	-2.6653143	Non-Pathogenic	Non-Pathogenic	S
+
+350.	NODE_350_length_65_cov_13883.100000 	Uncalssified protein	----------	-3.1442982	Non-Pathogenic	Non-Pathogenic	S
+
+351.	NODE_351_length_65_cov_9398.000000 	Uncalssified protein	----------	7.2914735	Pathogenic	Pathogenic	S
+
+352.	NODE_352_length_65_cov_6377.000000 	Uncalssified protein	----------	-2.5325365	Non-Pathogenic	Non-Pathogenic	S
+
+353.	NODE_353_length_64_cov_9865.777778 	Uncalssified protein	----------	0.57581445	Pathogenic	Pathogenic	S
+
+354.	NODE_354_length_64_cov_7140.000000 	Uncalssified protein	----------	-5.8431366	Non-Pathogenic	Non-Pathogenic	S
+
+355.	NODE_355_length_64_cov_6318.888889 	Uncalssified protein	----------	-5.8431366	Non-Pathogenic	Non-Pathogenic	S
+
+356.	NODE_356_length_64_cov_6130.666667 	Uncalssified protein	----------	-4.9257397	Non-Pathogenic	Non-Pathogenic	S
+
+357.	NODE_357_length_64_cov_718.555556 	Uncalssified protein	----------	3.9414137	Pathogenic	Pathogenic	S
+
+358.	NODE_358_length_64_cov_315.777778 	Uncalssified protein	----------	10.570708	Pathogenic	Pathogenic	S
+
+359.	NODE_359_length_64_cov_276.000000 	Uncalssified protein	----------	-5.4251652	Non-Pathogenic	Non-Pathogenic	S
+
+360.	NODE_360_length_64_cov_260.111111 	Uncalssified protein	----------	9.599943	Pathogenic	Pathogenic	S
+
+361.	NODE_361_length_64_cov_209.555556 	Uncalssified protein	----------	-4.5514487	Non-Pathogenic	Non-Pathogenic	S
+
+362.	NODE_362_length_64_cov_183.555556 	Uncalssified protein	----------	4.8305355	Pathogenic	Pathogenic	S
+
+363.	NODE_363_length_63_cov_15127.000000 	Uncalssified protein	----------	-4.1027901	Non-Pathogenic	Non-Pathogenic	S
+
+364.	NODE_364_length_63_cov_9911.875000 	Uncalssified protein	----------	2.1107767	Pathogenic	Pathogenic	S
+
+365.	NODE_365_length_63_cov_9493.500000 	Uncalssified protein	----------	1.2767303	Pathogenic	Pathogenic	S
+
+366.	NODE_366_length_63_cov_9361.250000 	Uncalssified protein	----------	2.7969044	Pathogenic	Pathogenic	S
+
+367.	NODE_367_length_63_cov_206.125000 	Uncalssified protein	----------	0.66353495	Pathogenic	Pathogenic	S
+
+368.	NODE_368_length_63_cov_201.625000 	Uncalssified protein	----------	3.0772456	Pathogenic	Pathogenic	S
+
+369.	NODE_369_length_63_cov_78.375000 	Uncalssified protein	----------	3.5790083	Pathogenic	Pathogenic	S
+
+370.	NODE_370_length_62_cov_7701.571429 	Uncalssified protein	----------	1.688626	Pathogenic	Pathogenic	S
+
+371.	NODE_371_length_62_cov_6719.428571 	Uncalssified protein	----------	1.3053341	Pathogenic	Pathogenic	S
+
+372.	NODE_372_length_62_cov_220.714286 	Uncalssified protein	----------	-5.3111417	Non-Pathogenic	Non-Pathogenic	S
+
+373.	NODE_373_length_62_cov_98.571429 	Uncalssified protein	----------	3.4722698	Pathogenic	Pathogenic	S
+
+374.	NODE_374_length_62_cov_80.285714 	Uncalssified protein	----------	2.9988537	Pathogenic	Pathogenic	S
+
+375.	NODE_375_length_61_cov_9643.500000 	Uncalssified protein	----------	-1.6868354	Non-Pathogenic	Non-Pathogenic	S
+
+376.	NODE_376_length_61_cov_9235.666667 	Uncalssified protein	----------	-2.0478239	Non-Pathogenic	Non-Pathogenic	S
+
+377.	NODE_377_length_61_cov_5423.833333 	Uncalssified protein	----------	-2.7742512	Non-Pathogenic	Non-Pathogenic	S
+
+378.	NODE_378_length_61_cov_382.833333 	Uncalssified protein	----------	2.9819754	Pathogenic	Pathogenic	S
+
+379.	NODE_379_length_61_cov_187.833333 	Uncalssified protein	----------	-1.3685044	Non-Pathogenic	Non-Pathogenic	S
+
+380.	NODE_380_length_61_cov_2.666667 	Uncalssified protein	----------	-14.55342	Non-Pathogenic	Non-Pathogenic	S
+
+381.	NODE_381_length_60_cov_21213.400000 	Uncalssified protein	----------	-1.5598222	Non-Pathogenic	Non-Pathogenic	S
+
+382.	NODE_382_length_60_cov_13939.400000 	Uncalssified protein	----------	-3.7463791	Non-Pathogenic	Non-Pathogenic	S
+
+383.	NODE_383_length_60_cov_9523.000000 	Uncalssified protein	----------	-1.7545158	Non-Pathogenic	Non-Pathogenic	S
+
+384.	NODE_384_length_60_cov_9477.600000 	Uncalssified protein	----------	-1.8267473	Non-Pathogenic	Non-Pathogenic	S
+
+385.	NODE_385_length_60_cov_6784.600000 	Uncalssified protein	----------	-4.5732387	Non-Pathogenic	Non-Pathogenic	S
+
+386.	NODE_386_length_60_cov_6489.400000 	Uncalssified protein	----------	-5.0986625	Non-Pathogenic	Non-Pathogenic	S
+
+387.	NODE_387_length_60_cov_6062.000000 	Uncalssified protein	----------	-2.8481225	Non-Pathogenic	Non-Pathogenic	S
+
+388.	NODE_388_length_60_cov_5755.400000 	Uncalssified protein	----------	-3.267914	Non-Pathogenic	Non-Pathogenic	S
+
+389.	NODE_389_length_60_cov_369.200000 	Uncalssified protein	----------	5.122057	Pathogenic	Pathogenic	S
+
+390.	NODE_390_length_60_cov_262.800000 	Uncalssified protein	----------	-0.082130101	Pathogenic	Pathogenic	S
+
+391.	NODE_391_length_60_cov_262.400000 	Uncalssified protein	----------	2.354438	Pathogenic	Pathogenic	S
+
+392.	NODE_392_length_60_cov_134.000000 	Uncalssified protein	----------	-4.7481345	Non-Pathogenic	Non-Pathogenic	S
+
+393.	NODE_393_length_59_cov_18737.250000 	Uncalssified protein	----------	-0.30356782	Non-Pathogenic	Non-Pathogenic	S
+
+394.	NODE_394_length_59_cov_9711.750000 	Uncalssified protein	----------	-1.6045284	Non-Pathogenic	Non-Pathogenic	S
+
+395.	NODE_395_length_59_cov_8572.000000 	Uncalssified protein	----------	-2.2845177	Non-Pathogenic	Non-Pathogenic	S
+
+396.	NODE_396_length_59_cov_5981.250000 	Uncalssified protein	----------	-3.2607767	Non-Pathogenic	Non-Pathogenic	S
+
+397.	NODE_397_length_59_cov_903.250000 	Uncalssified protein	----------	-2.2747508	Non-Pathogenic	Non-Pathogenic	S
+
+398.	NODE_398_length_59_cov_343.500000 	Uncalssified protein	----------	1.5734953	Pathogenic	Pathogenic	S
+
+399.	NODE_399_length_59_cov_135.250000 	Uncalssified protein	----------	-2.2878903	Non-Pathogenic	Non-Pathogenic	S
+
+400.	NODE_400_length_59_cov_120.250000 	Uncalssified protein	----------	-4.7295423	Non-Pathogenic	Non-Pathogenic	S
+
+401.	NODE_401_length_59_cov_11.500000 	Uncalssified protein	----------	-2.7382848	Non-Pathogenic	Non-Pathogenic	S
+
+402.	NODE_402_length_58_cov_15717.000000 	Uncalssified protein	----------	-4.7115659	Non-Pathogenic	Non-Pathogenic	S
+
+403.	NODE_403_length_58_cov_14902.666667 	Uncalssified protein	----------	-3.8607595	Non-Pathogenic	Non-Pathogenic	S
+
+404.	NODE_404_length_58_cov_7145.666667 	Uncalssified protein	----------	-6.2183022	Non-Pathogenic	Non-Pathogenic	S
+
+405.	NODE_405_length_58_cov_6846.666667 	Uncalssified protein	----------	-5.7187933	Non-Pathogenic	Non-Pathogenic	S
+
+406.	NODE_406_length_58_cov_6685.666667 	Uncalssified protein	----------	-6.3712431	Non-Pathogenic	Non-Pathogenic	S
+
+407.	NODE_407_length_58_cov_6598.000000 	Uncalssified protein	----------	-5.5228515	Non-Pathogenic	Non-Pathogenic	S
+
+408.	NODE_408_length_58_cov_6139.000000 	Uncalssified protein	----------	-2.6021267	Non-Pathogenic	Non-Pathogenic	S
+
+409.	NODE_409_length_58_cov_5887.666667 	Uncalssified protein	----------	-3.1715684	Non-Pathogenic	Non-Pathogenic	S
+
+410.	NODE_410_length_58_cov_703.666667 	Uncalssified protein	----------	2.068556	Pathogenic	Pathogenic	S
+
+411.	NODE_411_length_58_cov_215.000000 	Uncalssified protein	----------	5.7778788	Pathogenic	Pathogenic	S
+
+412.	NODE_412_length_58_cov_124.000000 	Uncalssified protein	----------	-5.9277679	Non-Pathogenic	Non-Pathogenic	S
+
+413.	NODE_413_length_57_cov_9894.500000 	Uncalssified protein	----------	4.1564621	Pathogenic	Pathogenic	S
+
+414.	NODE_414_length_57_cov_532.500000 	Uncalssified protein	----------	3.6887546	Pathogenic	Pathogenic	S
+
+415.	NODE_415_length_57_cov_527.000000 	Uncalssified protein	----------	-4.9554881	Non-Pathogenic	Non-Pathogenic	S
+
+416.	NODE_416_length_57_cov_145.000000 	Uncalssified protein	----------	-3.4874737	Non-Pathogenic	Non-Pathogenic	S
+
+417.	NODE_417_length_56_cov_21921.000000 	Uncalssified protein	----------	-4.9814082	Non-Pathogenic	Non-Pathogenic	S
+
+418.	NODE_418_length_56_cov_9071.000000 	Uncalssified protein	----------	-2.3704635	Non-Pathogenic	Non-Pathogenic	S
+
+419.	NODE_419_length_56_cov_8176.000000 	Uncalssified protein	----------	3.4548723	Pathogenic	Pathogenic	S
+
+420.	NODE_420_length_56_cov_8055.000000 	Uncalssified protein	----------	1.8716752	Pathogenic	Pathogenic	S
+
+421.	NODE_421_length_56_cov_6939.000000 	Uncalssified protein	----------	5.1812137	Pathogenic	Pathogenic	S
+
+422.	NODE_422_length_56_cov_6670.000000 	Uncalssified protein	----------	-238.16444	Non-Pathogenic	Non-Pathogenic	S
+
+423.	NODE_423_length_56_cov_1695.000000 	Uncalssified protein	----------	12.353248	Pathogenic	Pathogenic	S
+
+424.	NODE_424_length_56_cov_657.000000 	Uncalssified protein	----------	-2.7077336	Non-Pathogenic	Non-Pathogenic	S
+
+425.	NODE_425_length_56_cov_635.000000 	Uncalssified protein	----------	1.4861465	Pathogenic	Pathogenic	S
+
+426.	NODE_426_length_56_cov_496.000000 	Uncalssified protein	----------	-0.051237825	Pathogenic	Pathogenic	S
+
+427.	NODE_427_length_56_cov_419.000000 	Uncalssified protein	----------	-4.235733	Non-Pathogenic	Non-Pathogenic	S
+
+428.	NODE_428_length_56_cov_321.000000 	Uncalssified protein	----------	0.77610583	Pathogenic	Pathogenic	S
+
+429.	NODE_429_length_56_cov_257.000000 	Uncalssified protein	----------	0.16117597	Pathogenic	Pathogenic	S
+
+430.	NODE_430_length_56_cov_252.000000 	Uncalssified protein	----------	-1.7596831	Non-Pathogenic	Non-Pathogenic	S
+
+431.	NODE_431_length_56_cov_171.000000 	Uncalssified protein	----------	0.91519029	Pathogenic	Pathogenic	S
+
+432.	NODE_432_length_56_cov_169.000000 	Uncalssified protein	----------	-2.1336352	Non-Pathogenic	Non-Pathogenic	S
+
+433.	NODE_433_length_56_cov_98.000000 	Uncalssified protein	----------	1.8393136	Pathogenic	Pathogenic	S
+
+434.	NODE_434_length_56_cov_89.000000 	Uncalssified protein	----------	3.3953621	Pathogenic	Pathogenic	S
+
+
+HS : prediction by both HMM and SVM are in consensus.
+H: prediction is based only on HMM module.
+S: prediction is based only on SVM module
